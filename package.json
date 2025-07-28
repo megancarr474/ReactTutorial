@@ -1,0 +1,21 @@
+{
+  "name": "reacttutorial",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "server": "cd server && nodemon start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megancarr474/ReactTutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/megancarr474/ReactTutorial/issues"
+  },
+  "homepage": "https://github.com/megancarr474/ReactTutorial#readme",
+  "description": ""
+}
